@@ -620,7 +620,7 @@ const events = [
     {
         id: 1,
         title: "Cultural Night",
-        image: "img/event1.jpg",
+        image: "event1.jpg",
         date: "March 15, 2024",
         time: "6:00 PM",
         venue: "Main Auditorium",
@@ -629,7 +629,7 @@ const events = [
     {
         id: 2,
         title: "Hindi Poetry Slam",
-        image: "img/event2.jpg",
+        image: "event2.jpg",
         date: "March 20, 2024",
         time: "4:00 PM",
         venue: "Seminar Hall",
@@ -638,7 +638,7 @@ const events = [
     {
         id: 3,
         title: "Bollywood Dance Workshop",
-        image: "img/event3.jpg",
+        image: "event3.jpg",
         date: "March 25, 2024",
         time: "3:00 PM",
         venue: "Dance Studio",
@@ -647,7 +647,7 @@ const events = [
     {
         id: 4,
         title: "Hindi Debate Competition",
-        image: "img/event4.jpg",
+        image: "event4.jpg",
         date: "April 1, 2024",
         time: "2:00 PM",
         venue: "Debate Hall",
@@ -656,7 +656,7 @@ const events = [
     {
         id: 5,
         title: "Indian Classical Music Concert",
-        image: "img/event5.jpg",
+        image: "event5.jpg",
         date: "April 5, 2024",
         time: "7:00 PM",
         venue: "Music Hall",
@@ -665,7 +665,7 @@ const events = [
     {
         id: 6,
         title: "Hindi Storytelling Session",
-        image: "img/event6.jpg",
+        image: "event6.jpg",
         date: "April 10, 2024",
         time: "5:00 PM",
         venue: "Library",
@@ -674,7 +674,7 @@ const events = [
     {
         id: 7,
         title: "Indian Art Exhibition",
-        image: "img/event7.jpg",
+        image: "event7.jpg",
         date: "April 15, 2024",
         time: "11:00 AM",
         venue: "Art Gallery",
@@ -683,7 +683,7 @@ const events = [
     {
         id: 8,
         title: "Hindi Quiz Competition",
-        image: "img/event8.jpg",
+        image: "event8.jpg",
         date: "April 20, 2024",
         time: "3:00 PM",
         venue: "Quiz Hall",
@@ -692,7 +692,7 @@ const events = [
     {
         id: 9,
         title: "Indian Cuisine Workshop",
-        image: "img/event9.jpg",
+        image: "event9.jpg",
         date: "April 25, 2024",
         time: "4:00 PM",
         venue: "Culinary Lab",
@@ -701,7 +701,7 @@ const events = [
     {
         id: 10,
         title: "Hindi Film Festival",
-        image: "img/event10.jpg",
+        image: "event10.jpg",
         date: "May 1, 2024",
         time: "6:00 PM",
         venue: "Movie Hall",
